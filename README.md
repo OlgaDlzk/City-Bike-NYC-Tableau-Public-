@@ -36,7 +36,7 @@ There are 15 datasets in total, one for each month. Sample size for analysis con
 5. Quarter usage of a rideable type as well as weekly service engagement through the selected time period. We observe that classic bike usage peaks in the 3d quarter, specificaly in August, however, electric bike peaks somewhere in the end of June-beginning of July. 
 We also observe days with more than 30,000 rides mainly through the summer till the beginning of November. 
 
-![Dashboard Engagement by months and days](https://user-images.githubusercontent.com/74025870/233485651-50538fea-acca-49ae-b433-d26dc7310289.png)
+![Dashboard Engagement by months and days](https://user-images.githubusercontent.com/74025870/233499508-9823f7ae-a623-48e1-a33d-3ca60e35c4a0.png)
 
 6. Weekly Change of service participation. The interesting thing uncovered on this particular slide is the fact that the peak participation in August is attributed to increase of usage during the weekdays (Tuesday, Wednesday, Thursday, Friday) and not on the weekends. 
 
